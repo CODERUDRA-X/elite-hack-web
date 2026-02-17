@@ -1,7 +1,6 @@
 # 🚀 Elite Hack 1.0 (Unofficial Concept Website)
 
-![Project Banner](https://placehold.co/1200x600/050505/FF007F?text=Elite+Hack+Concept+Web)
-> *Note: Replace the link above with a screenshot of your actual website later.*
+![Project Banner](https://github.com/CODERUDRA-X/elite-hack-web/blob/main/Screenshot%202026-02-17%20234428.png?raw=true)
 
 ## ⚠️ Disclaimer (Please Read First)
 This project is a **Fan-made Concept / Practice Project** developed for educational purposes only.
