@@ -66,7 +66,7 @@ If you are from the **Elite Hack organizing team** and want this removed or modi
 ---
 
 ### 👨‍💻 Developer
-**Shreyansh Srivastava (CODERUDRA-X)**
+**CODERUDRA-X**
 * Systems Architect & Intelligence Integrator.
 
 * Focused on building high-integrity digital ecosystems with a mission-critical mindset.
