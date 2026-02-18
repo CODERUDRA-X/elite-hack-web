@@ -21,11 +21,16 @@ const config: Config = {
       animation: {
         "glow-pulse": "glow-pulse 2s ease-in-out infinite",
         "star-twinkle": "star-twinkle 3s ease-in-out infinite",
-        // 👇 YE NAYA ADD KIYA HAI (Train chalane ke liye)
         "infinite-scroll": "infinite-scroll 25s linear infinite",
+        // 👇 Yahan add kiya hai naya wala
+        "float": "float 6s ease-in-out infinite",
       },
       keyframes: {
-        // 👇 YE BHI NAYA HAI (Train ka rasta)
+        // 👇 Yahan add kiya hai naya wala rasta
+        float: {
+          "0%, 100%": { transform: "translateY(0) rotate(0deg)" },
+          "50%": { transform: "translateY(-20px) rotate(2deg)" },
+        },
         "infinite-scroll": {
           from: { transform: "translateX(0)" },
           to: { transform: "translateX(-100%)" },

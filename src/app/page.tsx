@@ -150,6 +150,15 @@ function Hero() {
           Join Community
         </a>
       </motion.div>
+      {/* 👨‍🚀 FLOATING ASTRONAUT SECTION - YAHAN PASTE KIYA */}
+    <div className="absolute right-[5%] top-[25%] hidden lg:block z-10 pointer-events-none">
+      <div className="absolute inset-0 bg-brand-pink blur-[120px] opacity-20 animate-pulse rounded-full"></div>
+      <img 
+        src="https://raw.githubusercontent.com/CODERUDRA-X/elite-hack-web/refs/heads/main/istockphoto-1449939596-612x612-removebg-preview.png" 
+        alt="Floating Astronaut"
+        className="w-[350px] h-auto animate-float drop-shadow-[0_0_30px_rgba(255,0,127,0.3)] rotate-12 opacity-90 transition-all duration-500"
+      />
+    </div>     
     </section>
   );
 }
