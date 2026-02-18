@@ -1,6 +1,6 @@
 # 🚀 Elite Hack 1.0 (Unofficial Concept Website)
 
-![Project Banner](https://github.com/CODERUDRA-X/elite-hack-web/blob/main/Screenshot%202026-02-17%20234428.png?raw=true)
+![Project Banner](https://github.com/CODERUDRA-X/elite-hack-web/blob/main/Screenshot%202026-02-18%20231126.png)
 
 ## ⚠️ Disclaimer (Please Read First)
 This project is a **Fan-made Concept / Practice Project** developed for educational purposes only.
